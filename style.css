@@ -1,0 +1,9 @@
+body {
+  font-family: "Poppins";
+  min-height: 2000px;
+}
+
+.jumbotron {
+  padding-top: 2rem;
+  background-color: #ffeee2;
+}
